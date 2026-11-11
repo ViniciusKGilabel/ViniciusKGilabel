@@ -2,7 +2,7 @@
 <h1 align="center">Hello my name is Vinicius 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=500&lines=Creating+Building+delivering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=500&lines=Creating,+Building,+delivering" />
 </p>
 
 ### 🚀 About me
@@ -11,9 +11,8 @@
 ### 🛠️ Tecnologias
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css," />
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,aws, mysql,postgres" />
-  <img src="https://skillicons.dev/icons?i=" />
-  
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,aws, mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs, react, angular, nestjs,nextjs" />
 </p>
 
 ### 📊 Estatísticas
