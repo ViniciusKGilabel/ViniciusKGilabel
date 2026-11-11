@@ -11,8 +11,8 @@
 ### 🛠️ Tecnologias
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css," />
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,aws, mysql,postgres,firebase," />
-  <img src="https://skillicons.dev/icons?i=nodejs, react, angular, nestjs,nextjs," />
+  <img src="https://skillicons.dev/icons?i=docker,aws,mysql,postgres,firebase," />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,angular,nestjs,nextjs,prisma" />
 </p>
 
 ### 📊 Statistics
