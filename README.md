@@ -10,9 +10,13 @@
 
 ### 🛠️ Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css," />
-  <img src="https://skillicons.dev/icons?i=docker,aws,mysql,postgres,firebase," />
-  <img src="https://skillicons.dev/icons?i=nodejs,react,angular,nestjs,nextjs,prisma" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,tailwind" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,mysql,postgres,firebase,redis,vite" />
+</p>
+<p align="left">
+  <img src="https://skilliconsÏ.dev/icons?i=nodejs,react,angular,nestjs,nextjs,prisma,redux,sequelize,svg" />
 </p>
 
 ### 📊 Statistics
